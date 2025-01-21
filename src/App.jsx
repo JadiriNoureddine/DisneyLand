@@ -7,7 +7,7 @@ const events = [
     badge: "Until 9 January 2025",
     title: "Disney Electrical Sky Parade",
     description: "Until 9 January 2025 when the sun sets, float over to Sleeping Beauty Castle after sunset, look up and you'll see a dance of drones painting the night with all the colours of magic.",
-    image: "https://images.unsplash.com/photo-1605123728007-df0534c6a0e1?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1556707752-481d500a2c58?auto=format&fit=crop&q=80&w=1200",
     badgeColor: "bg-purple-600"
   },
   {
@@ -15,7 +15,7 @@ const events = [
     badge: "From 10 January 2025",
     title: "Disney Tales of Magic",
     description: "Let your heart be captivated and your spirit lifted with our brand-new nighttime spectacular, coming to Disneyland Park from 10 January 2025!",
-    image: "https://images.unsplash.com/photo-1612826213462-68e7c4fad5e8?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1556707752-481d500a2c58?auto=format&fit=crop&q=80&w=1200",
     badgeColor: "bg-purple-600"
   },
   {
@@ -23,7 +23,7 @@ const events = [
     badge: "Back on 17 May 2025",
     title: "Alice & the Queen of Hearts: Back to Wonderland",
     description: "From 17 May 2025, join Alice, the Queen of Hearts, and other beloved Characters as they return to Wonderland in an electrifying show in Walt Disney Studios Park.",
-    image: "https://images.unsplash.com/photo-1610041518868-f9284e7eecfe?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1556707752-481d500a2c58?auto=format&fit=crop&q=80&w=1200",
     badgeColor: "bg-purple-600"
   },
   {
@@ -31,7 +31,7 @@ const events = [
     badge: "New",
     title: "Disney Music Festival",
     description: "Celebrate Disney hits - from classics to today's chart toppers in concerts, dance shows and street entertainment at Disneyland Park, starring beloved Disney and Pixar Characters.",
-    image: "https://images.unsplash.com/photo-1580687774725-4e23db308d4f?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1556707752-481d500a2c58?auto=format&fit=crop&q=80&w=1200",
     badgeColor: "bg-pink-300"
   },
   {
@@ -47,7 +47,7 @@ const events = [
     badge: "Limited Time",
     title: "Star Wars: Galaxy's Edge",
     description: "Experience the epic Star Wars saga like never before with immersive attractions, unique dining experiences, and unforgettable character encounters.",
-    image: "https://images.unsplash.com/photo-1579566346927-c68383817a25?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1556707752-481d500a2c58?auto=format&fit=crop&q=80&w=1200",
     badgeColor: "bg-blue-500"
   },
   {
@@ -55,7 +55,7 @@ const events = [
     badge: "Seasonal",
     title: "Disney's Halloween Festival",
     description: "Experience spooktacular fun with our Halloween celebration featuring special shows, decorated attractions, and your favorite Disney Villains.",
-    image: "https://images.unsplash.com/photo-1601024445121-e294d33ea0dd?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1556707752-481d500a2c58?auto=format&fit=crop&q=80&w=1200",
     badgeColor: "bg-orange-500"
   },
   {
@@ -63,7 +63,7 @@ const events = [
     badge: "Coming Winter",
     title: "Frozen Wonderland",
     description: "Step into Arendelle's magical winter wonderland with Anna, Elsa, and friends for an unforgettable adventure filled with music, magic, and memories.",
-    image: "https://images.unsplash.com/photo-1548092372-0d1bd40894a3?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1556707752-481d500a2c58?auto=format&fit=crop&q=80&w=1200",
     badgeColor: "bg-cyan-500"
   }
 ];
